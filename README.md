@@ -27,6 +27,7 @@ chmod +x system_monitor.sh
 ./system_monitor.sh
 
 This will create or update system_log.txt with the latest system info.
+
 3. View the log file
 
 cat system_log.txt
